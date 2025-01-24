@@ -1,1 +1,2 @@
 Created file2 for Cr1
+Checking conflict now
